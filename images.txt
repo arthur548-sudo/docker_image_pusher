@@ -1,1 +1,2 @@
 oznu/homebridge:ubuntu
+nginx
